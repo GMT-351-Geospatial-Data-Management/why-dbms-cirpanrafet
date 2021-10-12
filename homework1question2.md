@@ -26,7 +26,7 @@ No, because we are very careful in the "Database First" phase of the design. In 
 
 **7)Assume you have a team of Geomatics Engineers. Consider that employee A has very good skills in databases and prgramming and employee B does not possess these skills. Considering that you have the financial freedom and that you paying X TL to employee B; how much would you pay to employee A? 
 
-1.5x or 2x 
+1.5x or 2x
 
 
 
