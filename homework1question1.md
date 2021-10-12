@@ -1,4 +1,4 @@
-**QUESTION 1;**
+**QUESTION 1**
 
 -While writing formulas to cells in spreadsheet, this is not possible in databases.
 
