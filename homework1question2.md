@@ -2,7 +2,7 @@
 
 **1)What kind of spatial and thematic data you store?
 
-Raster data, Elevation data, 3D object data
+Raster data, Elevation data, 3D object data.
 
 **2)Do you use a DBMS? If so, which one(s)?
 
